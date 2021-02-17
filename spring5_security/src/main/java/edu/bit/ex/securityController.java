@@ -28,7 +28,7 @@ public class securityController {
 	     
 	     @GetMapping("/admin")
 	     public void doAdmin() {
-	       //hihihi
+	       //dddhihihi
 	       log.info("admin only");
 	     }
 	   
